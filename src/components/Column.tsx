@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import { Column as ColumnType, Task } from '@/types';
 import TaskCard from './TaskCard';
 import { useAppDispatch } from '@/hooks/useAppDispatch';
-import { deleteColumn, updateColumnColor, addTask, moveTask } from '@/store/kanbanSlice';
+import { deleteColumn, updateColumnColor, addTask} from '@/store/kanbanSlice';
 import AddTaskModal from './AddTaskModal';
 
 interface ColumnProps {
