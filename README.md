@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+Link to the deployment: https://hputyk.github.io/Test-Task/
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
